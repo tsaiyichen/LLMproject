@@ -1,4 +1,3 @@
-from langchain.chains.qa_with_sources.stuff_prompt import template
 from langchain_mistralai import ChatMistralAI
 from langchain.prompts import PromptTemplate
 from langchain.memory import ConversationBufferMemory
